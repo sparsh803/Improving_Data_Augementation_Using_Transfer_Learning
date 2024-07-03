@@ -96,8 +96,6 @@ Step-by-Step Guide
         Download the Jupyter Notebook (*.ipynb) from the GitHub repository.
 
     Upload to Kaggle:
-        Log in to your Kaggle account.
-        Navigate to the "Notebooks" section.
         Click on "New Notebook" and choose the option to upload the notebook file.
 
     Set the Accelerator:
