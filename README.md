@@ -38,6 +38,8 @@ ShuffleNet V2, known for its efficiency, was chosen and adapted with additional 
 ### Data and Augmentation Techniques
 <a id="data-and-augmentation-techniques"></a>
 
+Dataset Used : https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification
+
 Augmentation techniques were tailored to each disease category:
 - **Cataract:** Gaussian blur, rotation, and horizontal flipping.
 - **Glaucoma:** Grid distortion, rotation, and horizontal flipping.
